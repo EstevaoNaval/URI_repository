@@ -73,5 +73,7 @@ OBS.: column **level** means how difficult there question was to be solved.
 |:----:|:-----:|:------:|------|
 
 ### Tier 09 (SQL)
-| Tier | Level | Number | Name |
-|:----:|:-----:|:------:|------|
+| Tier | Level | Number | Name             |
+|:----:|:-----:|:------:|------------------|
+|  09  |   4   |  2602  | Basic Select     |
+|  09  |   1   |  2603  | Customer Address |
