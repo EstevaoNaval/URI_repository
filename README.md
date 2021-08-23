@@ -44,6 +44,7 @@ OBS.: column **level** means how difficult there question was to be solved.
 |  02  |   1   | 1397   | Game of The Greatest |
 |  02  |   5   | 2287   | Proteja sua Senha    |
 |  02  |   3   | 2303   | Margaridas           |
+|  02  |   2   | 2304   | Banco Imobiliário    |
 |  02  |   5   | 2343   | Caçadores de Mitos   |
 
 ### Tier 03 (Strings)
