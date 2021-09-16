@@ -27,34 +27,74 @@ OBS.: column **level** means how difficult there question was to be solved.
 |:----:|:-----:|:------:|---------------------|
 |  01  |   4   |  1018  | Banknotes           |
 |  01  |   6   |  1021  | Banknotes and Coins |
+|  01  |   1   |  1038  | Snack               |
+|  01  |   2   |  1050  | DDD                 |
 |  01  |   2   |  1052  | Month               |
 |  01  |   2   |  1175  | Array change I      |
 |  01  |   3   |  1176  | Fibonacci Array     |
+|  01  |   3   |  1181  | Line in Array       |
+|  01  |   1   |  1188  | Inferior Area       |
 |  01  |   2   |  1858  | Theon's Answer      |
 |  01  |   1   |  1933  | Tri-du              |
+|  01  |   1   |  1985  | MacPRONALTS         |
+|  01  |   4   |  2163  | The Force Awakens   |
 |  01  |   2   |  2167  | Engine Failure      |
 |  01  |   1   |  2168  | Twilight at Portland|
+|  01  |   1   |  2176  | Parity              |
+|  01  |   1   |  2344  | Exam grade          |
+|  01  |   5   |  2520  | The Last Analógimôn |
+|  01  |   2   |  2552  | CheeseBreadSweeper  |
 |  01  |   9   |  2709  | The Coins of Robbie |
 |  01  |   4   |  2846  | Fibonot             |
 |  01  |   5   |  3068  | Meteoros            |
 
 ### Tier 02 (Ad-Hoc)
-| Tier | Level | Number | Name                 |
-|:----:|:-----:|:------:|----------------------|
-|  02  |   1   | 1397   | Game of The Greatest |
-|  02  |   5   | 2287   | Proteja sua Senha    |
-|  02  |   3   | 2303   | Margaridas           |
-|  02  |   2   | 2304   | Banco Imobiliário    |
-|  02  |   5   | 2343   | Caçadores de Mitos   |
+| Tier | Level | Number | Name                    |
+|:----:|:-----:|:------:|-------------------------|
+|  02  |   3   | 1171   | Number Frequence        |
+|  02  |   6   | 1383   | Sudoku                  |
+|  02  |   1   | 1397   | Game of The Greatest    | 
+|  02  |   7   | 1559   | 2048                    |
+|  02  |   2   | 1574   | Robot Instructions      |
+|  02  |   3   | 1800   | Where Are My Keys       |
+|  02  |   1   | 2189   | Kermesse                |
+|  02  |   5   | 2287   | Proteja sua Senha       |
+|  02  |   3   | 2295   | Taxi Fleet              |
+|  02  |   3   | 2303   | Margaridas              |
+|  02  |   2   | 2304   | Banco Imobiliário       |
+|  02  |   1   | 2342   | Overflow                |
+|  02  |   5   | 2343   | Caçadores de Mitos      |
+|  02  |   1   | 2373   | Waiter                  |
+|  02  |   1   | 2374   | Tire                    |
+|  02  |   4   | 2437   | Distance from Manhattan |
+|  02  |   2   | 2443   | Sum of Fractions        |
+|  02  |   2   | 2456   | Cards                   |
+|  02  |   1   | 2787   | Chess                   |
 
 ### Tier 03 (Strings)
-| Tier | Level | Number | Name |
-|:----:|:-----:|:------:|------|
+| Tier | Level | Number | Name                 |
+|:----:|:-----:|:------:|----------------------|
+|  03  |   5   | 1024   | Criptografia         |
+|  03  |   3   | 1238   | Combiner             |
+|  03  |   2   | 1241   | Fit or Dont Fit II   |
+|  03  |   2   | 1248   | Diet Plan            |
+|  03  |   4   | 1551   | Complete Sentence    |
+|  03  |   1   | 1803   | Matring              |
 
 ### Tier 04 (Data Structures and Libraries)
-| Tier | Level | Number | Name                |
-|:----:|:-----:|:------:|---------------------|
-|  04  |   3   |  1259  | Even and Odd        |
+| Tier | Level | Number | Name                  |
+|:----:|:-----:|:------:|-----------------------|
+|  04  |   4   |  1244  | Sort by Length        |
+|  04  |   3   |  1259  | Even and Odd          |
+|  04  |   3   |  1281  | Going to the Market   |
+|  04  |   2   |  1430  | Jingle Composing      |
+|  04  |   3   |  1449  | The Fantastic Jaspion |
+|  04  |   2   |  1548  | Canteen Queue         |
+|  04  |   3   |  1766  | The Dark Elf          |
+|  04  |   4   |  1911  | Help Girafales        |
+|  04  |   4   |  2338  | Morse                 |
+|  04  |   2   |  2482  | Noel's Labels         |
+
 
 ### Tier 05 (Mathematics)
 | Tier | Level | Number | Name |
