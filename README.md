@@ -46,6 +46,7 @@ OBS.: column **level** means how difficult there question was to be solved.
 |  01  |   2   |  2552  | CheeseBreadSweeper  |
 |  01  |   9   |  2709  | The Coins of Robbie |
 |  01  |   4   |  2846  | Fibonot             |
+|  01  |   1   |  3047  | Dona Mônica's age   |
 |  01  |   5   |  3068  | Meteoros            |
 
 ### Tier 02 (Ad-Hoc)
